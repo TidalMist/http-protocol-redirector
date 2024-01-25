@@ -12,11 +12,21 @@ or
 >```
 >If contains spaces, remove or replace with %20 FlorisBoard%20Beta FlorisBoardBeta
 
+### Shorten link
+```
+https://tidalmist.github.io/obtainium-http-protocol-redirector?r={"id":"dev.patrickgold.florisboard.beta","url":"https://github.com/florisboard/florisboard","author":"florisboard","name":"FlorisBoard","additionalSettings":"{\"includePrereleases\":true}"}
+```
+or without additional settings
+```
+https://tidalmist.github.io/obtainium-http-protocol-redirector?r={"id":"dev.patrickgold.florisboard","url":"https://github.com/florisboard/florisboard","author":"florisboard","name":"FlorisBoard"}
+```
+
 ### For link without config use intradeus repo
 obtainium://add/
 ```
 https://intradeus.github.io/http-protocol-redirector?r=obtainium://add/github.com/florisboard/florisboard
 ```
+
 ##### why fork https://github.com/ImranR98/Obtainium/issues/1326
 # HTTP protocol redirector
 [![pages-build-deployment](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment)

@@ -2,14 +2,21 @@
 https://tidalmist.github.io/obtainium-http-protocol-redirector?r=
 ```
 ## Examples
+obtainium://app/
 ```
 https://tidalmist.github.io/obtainium-http-protocol-redirector?r=%7B%22id%22:%22dev.patrickgold.florisboard.beta%22,%22url%22:%22https://github.com/florisboard/florisboard%22,%22author%22:%22florisboard%22,%22name%22:%22FlorisBoard%20Beta%22,%22preferredApkIndex%22:0,%22additionalSettings%22:%22%7B%5C%22includePrereleases%5C%22:true,%5C%22fallbackToOlderReleases%5C%22:true,%5C%22filterReleaseTitlesByRegEx%5C%22:%5C%22%5C%22,%5C%22filterReleaseNotesByRegEx%5C%22:%5C%22%5C%22,%5C%22verifyLatestTag%5C%22:false,%5C%22dontSortReleasesList%5C%22:false,%5C%22trackOnly%5C%22:false,%5C%22versionDetection%5C%22:%5C%22standardVersionDetection%5C%22,%5C%22apkFilterRegEx%5C%22:%5C%22%5C%22,%5C%22autoApkFilterByArch%5C%22:true,%5C%22appName%5C%22:%5C%22%5C%22,%5C%22exemptFromBackgroundUpdates%5C%22:false,%5C%22skipUpdateNotifications%5C%22:false,%5C%22about%5C%22:%5C%22%5C%22%7D%22%7D
 ```
-
+or
 >```
 >https://tidalmist.github.io/obtainium-http-protocol-redirector?r={"id":"dev.patrickgold.florisboard.beta","url":"https://github.com/florisboard/florisboard","author":"florisboard","name":"FlorisBoard%20Beta","preferredApkIndex":0,"additionalSettings":"{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"trackOnly\":false,\"versionDetection\":\"standardVersionDetection\",\"apkFilterRegEx\":\"\",\"autoApkFilterByArch\":true,\"appName\":\"\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}"}
 >```
 >If contains spaces, remove or replace with %20 FlorisBoard%20Beta FlorisBoardBeta
+
+### For link without config use intradeus repo
+obtainium://add/
+```
+https://intradeus.github.io/http-protocol-redirector?r=obtainium://add/github.com/florisboard/florisboard
+```
 
 # HTTP protocol redirector
 [![pages-build-deployment](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment)

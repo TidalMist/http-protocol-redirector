@@ -17,7 +17,7 @@ obtainium://add/
 ```
 https://intradeus.github.io/http-protocol-redirector?r=obtainium://add/github.com/florisboard/florisboard
 ```
-
+##### why fork https://github.com/ImranR98/Obtainium/issues/1326
 # HTTP protocol redirector
 [![pages-build-deployment](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment)
 

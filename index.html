@@ -2,6 +2,9 @@
 <html>
 <head>
     <title>HTTP protocol redirector</title>
-    <script src="redirect.js"></script>
+    <script>
+    const r = new URLSearchParams(window.location.search).get("r")
+    if(r) window.location.replace((r.startsWith('obtainium://app/') ? 'obtainium://app/'+encodeURIComponent(r.replace('obtainium://app/', '')) : r))
+    </script>
 </head>
 </html>

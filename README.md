@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> When officiall redirect repo become, this repo will can disabled.
+> When official redirect repo become, this repo will probably be disabled.
 > 
 > For now use.
 ```

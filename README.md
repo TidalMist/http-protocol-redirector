@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> When officiall redirect repo become, this repo will can disabled.
+> 
+> For now use.
 ```
 https://tidalmist.github.io/obtainium-http-protocol-redirector?r=
 ```

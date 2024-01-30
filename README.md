@@ -1,7 +1,10 @@
 > [!IMPORTANT]
-> When official redirect repo become, this repo will probably be disabled.
+> ~~When official redirect repo become, this repo will probably be disabled.~~
 > 
-> For now use.
+> ~~For now use.~~
+> 
+> https://github.com/ImranR98/apps.obtainium.imranr.dev now has a redirect page
+
 ```
 https://tidalmist.github.io/obtainium-http-protocol-redirector?r=
 ```
